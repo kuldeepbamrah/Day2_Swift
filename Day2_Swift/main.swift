@@ -15,7 +15,7 @@ a.append(10)
 a.append(10)
 a.append(10)
 a.append(10)
-a.append(10)
+//a.append(10)
 
 for i in a {
     print(i)
